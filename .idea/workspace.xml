@@ -5,72 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7995bf3-cfe0-4ab6-a023-98e55b74415d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_01_pure/PureFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_02_sideeffects/SideEffects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_03_immutable/immutable/ImmutablePerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_03_immutable/immutable/Outsider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_03_immutable/mutable/MutablePerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_03_immutable/mutable/MutablePerson_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_03_immutable/mutable/MutablePerson_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_03_immutable/mutable/MutablePerson_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_03_immutable/mutable/Outsider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_04_functional/CLIArguments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_04_functional/CLIArgumentsUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_04_functional/MathFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_04_functional/StringFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_04_functional/_01_FunctionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_04_functional/_02_PredicatesDemos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_04_functional/_03_ConsumerSupplierDemos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_04_functional/_04_OperatorsAndBiFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_05_sam/AgeUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_05_sam/SingleAbstractMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_06_reference_operator/NombresUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_06_reference_operator/_01_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_07_inference/Inference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_08_lambda/Sintaxis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_08_lambda/Syntax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_09_defaults/Defaults.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_09_defaults/StringFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_10_chaining/Chaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_10_chaining/builder/BuilderNoChaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_10_chaining/builder/BuilderWithChaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_10_chaining/data/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_10_chaining/data/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_10_chaining/data/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_11_composition/Composition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_12_currying/Currying.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_13_partial_application/Partial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_14_optionals/OptionalUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_14_optionals/Optionals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_15_streams_intro/StreamsAndIterables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_16_listeners/StreamListeners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_17_operators_collectors/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_18_intermediate_ops/IntermediateOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/_19_final_ops/FinalOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/exercises/_11_Composition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/functional/util/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/043555239b906fb3299b3091b5ad3e8bf28b686d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c948c47b9e1487f86967d4e893f8a82a032b9fe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d7711cac14f6c600c5e01d694457edbc0028560" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/149e3a6eec8b85a42be6582113864f73eb8be817" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/33f06b49460ff8bdd46464655c14cc177641fa8d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/3625b0a5fb0379064bb774618a514a88a0996617" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/44b2988ce5b4ce9c39938cb36fca37d07735d49c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a18bea518e0edf29fbacb72f1fe41e50413c07b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4aef9d28d79b192b51203089eca2edd0ec6b6605" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/725b25932179cf7208c037b226232b4c8d9f45e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/77281584c3c95338509f9afe6b6a4f2560a149e7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/f/8f1129e1c3fc55f5a75ccce0ab022bcae2bbb666" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a2be5cf1ba9a57ac58a451c59505bb0ba312f4a3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d5c94dfef86b2efa782138e2ecaf8688eb000053" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fbe448ebfc3eb2d4e308f6b8b043666f5b57235e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="module-java-functional" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -78,19 +64,25 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectId" id="28WXfdfQ8aLrwo0uh8vLAVajvo2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/flufe/Documents/Development/GrdlProjects/module-java-functional/src/main/java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/flufe/Documents/Development/GrdlProjects/module-java-functional",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\flufe\Documents\Development\GrdlProjects\module-java-functional" />
       <recent name="C:\Users\flufe\Documents\Development\GrdlProjects\module-java-functional\src\main\java" />
     </key>
   </component>
